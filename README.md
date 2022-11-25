@@ -12,9 +12,7 @@ The dataset is from the World Happiness Report, which surveys countries annually
 
 ### Tools
 
-Python - Used to perform exploratory analysis, as well as other types of analyses such as regression, cluster, and time-series.
-
-Scripts can be found [here](https://github.com/bryan-limbo/World_Happiness_Report/tree/main/World%20Happiness%20Report/03.%20Scripts).
+Python - Used to perform exploratory analysis, as well as other types of analyses such as regression, cluster, and time-series. Scripts can be found [here](https://github.com/bryan-limbo/World_Happiness_Report/tree/main/World%20Happiness%20Report/03.%20Scripts).
 
 
 Tableau - Used to present results of the advanced exploratory analysis on an interactive dashboard and can be found [here](https://public.tableau.com/app/profile/bryan.lim3944/viz/WorldHappinessReport_16692311404740/WorldHappinessReport).
