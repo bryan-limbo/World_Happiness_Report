@@ -8,11 +8,11 @@ To explore any trends and determine what factors have the most impact on a count
 
 ### Data
 
-The dataset is from the World Happiness Report, which surveys countries annually to determine their overall happiness scores and can be found [here](https://www.kaggle.com/datasets/unsdsn/world-happiness).
+The dataset is from the World Happiness Report, which surveys countries annually to determine their overall happiness scores and can be found [here](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 
 ### Tools
 
-- Python - Perform exploratory analysis, as well as other types of analyses such as regression, cluster, and time-series. Scripts can be found [here](https://github.com/bryan-limbo/World_Happiness_Report/tree/main/World%20Happiness%20Report/03.%20Scripts).
+- Python - Perform exploratory analysis, as well as other types of analyses such as regression, cluster, and time-series. Scripts can be found [here](https://github.com/bryan-limbo/World_Happiness_Report/tree/main/World%20Happiness%20Report/03.%20Scripts)
 - Tableau - Create visualizations and showcase the results of the advanced exploratory analysis on an interactive dashboard
 
 ### Results
